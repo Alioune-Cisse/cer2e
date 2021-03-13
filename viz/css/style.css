@@ -1,0 +1,25 @@
+.body{
+	background-color: #444;
+	color: white;
+}
+td{
+	border: 1px solid white;
+}
+table{
+	margin-bottom: 5px;
+	width: 100%;
+}
+.heade{
+	border: 1px solid white;
+	height: 100px;
+	text-align: center;
+}
+.contain{
+	border: 1px solid white;
+	height: 300px;
+}
+
+#gauche{
+	height: 600px;
+	overflow: scroll;
+}
